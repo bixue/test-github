@@ -10,3 +10,10 @@ class Person
     char name[20];
 
 };
+
+
+struct Node
+{
+	char name[20];
+	int id;
+};
