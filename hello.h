@@ -4,7 +4,11 @@ using namespace std;
 class Person
 {
   public:
-    Person(){};
+    Person(int id, char *name)
+    {
+      _id = id;
+      strcpy(_name, name);
+    }
     void setInfo(int id, char *name)
     {
       _id = id;
