@@ -12,8 +12,3 @@ class Person
 };
 
 
-struct Node
-{
-	char name[20];
-	int id;
-};
