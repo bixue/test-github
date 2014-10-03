@@ -1,1 +1,4 @@
 this is in the n.txt
+
+
+i am in the file n.txt
